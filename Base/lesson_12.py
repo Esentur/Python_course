@@ -18,7 +18,7 @@ print(myTuple)
 print("----------------------")
 # exercise
 
-mList=input("Введите произвольную строку: ")
-mList=tuple(mList)
+mList = input("Введите произвольную строку: ")
+mList = tuple(mList)
 for i in mList:
     print(i)
