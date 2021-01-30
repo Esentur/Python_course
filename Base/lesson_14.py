@@ -69,8 +69,6 @@ print(getMax([5, 7, 0, 12, 1]))
 print(getMax([-5, -7, 1, 10, 50, 99]))
 
 print("--------------------------")
-
-
 # exercise
 
 def isEven(num):

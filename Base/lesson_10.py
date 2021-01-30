@@ -39,6 +39,8 @@ arr = list(range(0, 5))
 print(arr)
 for n in arr:
     print(n)
+
+
 i = 0
 sum = 0
 while i < len(arr):
@@ -52,6 +54,8 @@ arr1 = list(range(0, 5))
 print(arr1)
 for n in arr:
     print(n)
+
+
 sum1 = 0
 for m in arr1:
     sum1 += arr[m]

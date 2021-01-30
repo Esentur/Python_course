@@ -1,0 +1,17 @@
+class Point:
+    x = 0
+    y = 0
+
+
+p1 = Point()  # конструктор по умолчанию
+print(p1)
+print(p1.x, ';', p1.y)
+
+p1.x = 5
+p1.y = 7
+print(p1.x, ';', p1.y)
+
+p2 = Point()
+p2.z = 10
+print(p2.x, ';', p2.y, ';', p2.z)
+

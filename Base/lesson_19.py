@@ -6,6 +6,7 @@
 #     if (a>=1):
 #         exit(0)
 #     print('Hello')
+
 #exercise
 list=[3,5,-2,-8,0]
 def findNegativeNum(arr):
